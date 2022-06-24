@@ -1,0 +1,55 @@
+table {
+    font-family: fantasy, monospace;
+    border-collapse: collapse;
+    width: 50%;
+    font-style: bold;
+    background-color: rgb(199, 44, 96);
+}
+td, th {
+    border: 1px rgb(218, 87, 214);
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(odd) {
+    background-color: chartreuse;
+}
+.container{
+    width:100%;
+    height:50px;
+    background-color: chartreuse;
+}
+h1{
+    text-align: center;
+}
+.GroBtn{
+    margin-left: 300px;
+}
+.containerBtn{
+    margin-left:60px;
+}
+table{
+    background-color: chartreuse;
+}
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: lightseagreen;
+}
+.nav{
+    height: 50px;
+    margin-left: 100px;
+}
+.navbtn3 {
+    margin-right:300px;
+    margin-top:13px;
+    float: right;
+    font-size:25px;
+    color: lightseagreen;
+}
+.navbtn2 {
+    margin-right: 100px;
+    margin-top:13px;
+    float:right;
+    font-size:25px;
+    color: lightseagreen;
+}
